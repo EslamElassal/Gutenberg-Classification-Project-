@@ -1,0 +1,19 @@
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsdx
+
+# html 
+*.~html
+
+# htm 
+*.~htm
