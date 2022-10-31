@@ -38,7 +38,6 @@ Any kind of enhancement or contribution is welcomed.
 
 <embed src="Group8_ClassificationAssignment.pdf" type="application/pdf">
 
-![alt text](images/Group8_ClassificationAssignment_page-0001.jpg)
 ![alt text](images/Group8_ClassificationAssignment_page-0002.jpg)
 ![alt text](images/Group8_ClassificationAssignment_page-0003.jpg)
 ![alt text](images/Group8_ClassificationAssignment_page-0004.jpg)
